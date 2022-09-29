@@ -1,0 +1,201 @@
+source,target,index,timestamp,severity,signature_id,message,type
+172.16.1.6,172.16.2.2,1,20/8/22 0:12,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 0:18,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 0:20,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 0:28,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 0:47,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 0:51,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 6:43,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 6:52,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 7:16,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 7:30,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 7:41,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 7:46,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 7:52,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 8:14,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 8:49,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 8:59,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 9:00,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 9:11,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 9:29,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 9:58,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 9:59,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 10:07,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 10:15,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 10:37,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 10:41,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 10:48,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 11:15,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 11:36,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 11:53,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 11:58,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 12:05,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 12:06,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 13:36,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 13:51,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 13:59,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 14:13,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 14:16,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 14:49,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 14:52,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 15:10,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.2,1,20/8/22 15:28,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 0:55,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 0:55,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 2:00,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 2:32,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 2:48,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 3:15,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 3:56,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 4:11,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 4:17,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 4:27,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 4:43,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 5:05,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 5:18,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 5:46,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 6:35,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 12:09,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 12:45,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 13:01,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 13:04,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 13:24,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 13:27,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 13:31,4,8,Service on non-standard port,OT
+172.16.1.6,172.16.2.3,1,20/8/22 13:35,4,8,Service on non-standard port,OT
+172.16.2.2,172.16.2.3,1,20/8/22 16:46,10,4719,System audit policy was changed.,IT
+172.16.2.2,172.16.2.3,1,20/8/22 16:53,10,4719,System audit policy was changed.,IT
+172.16.2.2,172.16.2.3,1,20/8/22 16:57,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 17:09,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 17:23,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 17:34,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 17:42,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 23:04,5,611323,"When the ASA is an Easy VPN remote device, the downloaded VPN policy included duplicate split network entries. An entry is considered a duplicate if it matches both the network address and the network mask.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 23:24,5,713029,"The ASA has received the Phase 2 local proxy ID payload of the remote peer, which includes an IP address range.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 23:31,5,713264,"The ASA is adding a route for the private address or networks of the peer. In this case, the peer is either a client or a L2L peer with an unknown address. Both of these cases use dynamic crypto maps to allow the tunnel.",IT
+172.16.2.2,172.16.2.3,1,20/8/22 23:40,5,713264,"The ASA is adding a route for the private address or networks of the peer. In this case, the peer is either a client or a L2L peer with an unknown address. Both of these cases use dynamic crypto maps to allow the tunnel.",IT
+10.50.50.150,10.50.50.101,1,20/8/22 15:46,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.150,10.50.50.101,1,20/8/22 16:07,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.150,10.50.50.101,1,20/8/22 16:45,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.150,10.50.50.101,1,20/8/22 17:35,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.150,10.50.50.102,1,20/8/22 17:58,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.150,10.50.50.102,1,20/8/22 18:13,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.150,10.50.50.102,1,20/8/22 18:38,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.150,10.50.50.102,1,20/8/22 18:58,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.150,10.50.50.102,1,20/8/22 19:01,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.150,10.50.50.102,1,20/8/22 19:13,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.150,172.16.1.6,1,20/8/22 20:55,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.102,10.50.50.3,1,20/8/22 19:29,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.102,10.50.50.3,1,20/8/22 19:38,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.102,10.50.50.3,1,20/8/22 19:41,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.102,10.50.50.3,1,20/8/22 19:43,7,1,"Connection attempt, no reply, Inbound traffic",OT
+10.50.50.102,172.16.1.6,1,20/8/22 20:26,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.102,172.16.1.6,1,20/8/22 20:52,8,5,"Suricata Alert, Inbound traffic: ET DROP Spamhaus DROP Listed Traffic Inbound group 23",OT
+10.50.50.102,10.50.50.99,1,20/8/22 21:42,3,6,Weird: DNS_Conn_count_too_large,OT
+10.50.50.102,10.50.50.99,1,20/8/22 22:25,3,6,Weird: DNS_Conn_count_too_large,OT
+10.50.50.102,10.50.50.99,1,20/8/22 22:31,3,6,Weird: DNS_Conn_count_too_large,OT
+10.50.50.102,10.50.50.99,1,20/8/22 23:33,3,6,Weird: DNS_Conn_count_too_large,OT
+10.50.50.102,10.50.50.99,1,20/8/22 23:48,3,6,Weird: DNS_Conn_count_too_large,OT
+10.50.50.102,10.50.50.99,1,20/8/22 23:56,3,6,Weird: DNS_Conn_count_too_large,OT
+172.16.1.2,172.16.1.3,1,20/8/22 0:16,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 0:27,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 1:01,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 1:12,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 1:25,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 1:31,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 6:20,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 6:40,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 6:43,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 6:57,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 7:00,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 7:01,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 8:22,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 8:34,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 8:39,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 9:08,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.2,172.16.1.3,1,20/8/22 9:29,3,5136,A directory service object was modified.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 9:40,3,5136,A directory service object was modified.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 20:59,5,715018,This syslog message is generated while updating IPSEC SA details.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 21:19,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.2,172.16.1.3,1,20/8/22 21:46,5,713025,The ASA has received the Phase 2 local proxy ID payload from the remote peer.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 2:09,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 2:22,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 2:28,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 2:31,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 2:44,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 7:09,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 7:12,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 7:37,3,5142,A network share object was added.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 8:08,3,5142,A network share object was added.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 8:11,3,5142,A network share object was added.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 9:47,3,5136,A directory service object was modified.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 9:58,3,5136,A directory service object was modified.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:00,3,4622,An operation was performed on an object.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:01,3,4622,An operation was performed on an object.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:02,3,4622,An operation was performed on an object.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:14,3,4623,An attempt was made to access an object.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:17,10,4719,System audit policy was changed.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:39,10,4719,System audit policy was changed.,IT
+172.16.1.2,172.16.1.4,1,20/8/22 10:40,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.3,172.16.1.4,1,20/8/22 4:22,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 4:23,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 4:35,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 4:37,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 4:57,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 5:17,3,5142,A network share object was added.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 5:39,3,5142,A network share object was added.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 5:41,3,5142,A network share object was added.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 5:54,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 6:11,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 18:34,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 18:41,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 18:55,5,110002,An error occurred when the ASA tried to find the interface through which to send the packet.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 19:24,5,611323,"When the ASA is an Easy VPN remote device, the downloaded VPN policy included duplicate split network entries. An entry is considered a duplicate if it matches both the network address and the network mask.",IT
+172.16.1.3,172.16.1.4,1,20/8/22 19:27,5,720009,"The VPN failover subsystem failed to create a version control block. This step is required for the VPN failover subsystem to find out the backward compatible firmware versions for the current release. The VPN failover subsystem cannot be started, which may be caused by initialization problems of other subsystems.",IT
+172.16.1.3,172.16.1.4,1,20/8/22 19:43,5,611323,"When the ASA is an Easy VPN remote device, the downloaded VPN policy included duplicate split network entries. An entry is considered a duplicate if it matches both the network address and the network mask.",IT
+172.16.1.3,172.16.1.4,1,20/8/22 19:55,5,751022,The ASA was not able to find security policy information for the private networks or hosts indicated in the message. These networks or hosts were sent by the initiator and do not match any crypto ACLs at the ASA. This is most likely a misconfiguration.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 20:14,5,751022,The ASA was not able to find security policy information for the private networks or hosts indicated in the message. These networks or hosts were sent by the initiator and do not match any crypto ACLs at the ASA. This is most likely a misconfiguration.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 20:18,5,751022,The ASA was not able to find security policy information for the private networks or hosts indicated in the message. These networks or hosts were sent by the initiator and do not match any crypto ACLs at the ASA. This is most likely a misconfiguration.,IT
+172.16.1.3,172.16.1.4,1,20/8/22 20:26,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 2:54,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 2:59,3,5156,The Windows Filtering Platform has permitted a connection.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 3:05,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 3:24,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 3:28,3,5158,The Windows Filtering Platform has permitted a bind to a local port.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 3:49,3,5142,A network share object was added.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 4:01,3,5142,A network share object was added.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 4:09,3,5142,A network share object was added.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 4:18,3,5142,A network share object was added.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 10:48,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.2,1,20/8/22 10:51,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.2,1,20/8/22 11:13,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.2,1,20/8/22 11:39,10,4719,System audit policy was changed.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 11:49,10,4719,System audit policy was changed.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 12:01,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.2,1,20/8/22 12:11,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.2,1,20/8/22 13:39,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 13:51,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 14:02,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 14:57,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 15:00,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 15:09,3,4622,An operation was performed on an object.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 17:42,5,106023,"A real IP packet was denied by the ACL. This message appears even if you do not have the log option enabled for an ACL. The IP address is the real IP address instead of the values that display through NAT. Both user identity information and FQDN information is provided for the IP addresses if a matched one is found. The ASA logs either identity information (domain user) or FQDN (if the username is not available). If the identity information or FQDN is available, the ASA logs this information for both the source and destination.",IT
+172.16.1.4,172.16.2.2,1,20/8/22 17:55,5,409003,An invalid OSPF packet was received. Details are included in the error message. The cause might be an incorrect OSPF configuration or an internal error in the sender.,IT
+172.16.1.4,172.16.2.2,1,20/8/22 18:22,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 12:25,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.3,1,20/8/22 13:10,3,4624,"This event is generated when a logon session is created. It is generated on the computer that was accessed. The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe. The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network). The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on. The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases. The impersonation level field indicates the extent to which a process in the logon session can impersonate. The authentication information fields provide detailed information about this specific logon request. - Logon GUID is a unique identifier that can be used to correlate this event with a KDC event. - Transited services indicate which intermediate services have participated in this logon request. - Package name indicates which sub-protocol was used among the NTLM protocols. - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.",IT
+172.16.1.4,172.16.2.3,1,20/8/22 13:15,3,5136,A directory service object was modified.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 13:23,3,5136,A directory service object was modified.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 13:32,3,4622,An operation was performed on an object.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 13:37,3,4622,An operation was performed on an object.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 15:17,3,5136,A directory service object was modified.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 15:37,3,5136,A directory service object was modified.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 15:43,3,5136,A directory service object was modified.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 15:48,3,5136,A directory service object was modified.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 15:55,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 16:35,3,4623,An attempt was made to access an object.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 21:51,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 22:32,5,611323,"When the ASA is an Easy VPN remote device, the downloaded VPN policy included duplicate split network entries. An entry is considered a duplicate if it matches both the network address and the network mask.",IT
+172.16.1.4,172.16.2.3,1,20/8/22 22:50,5,737025,The IP address that was to be given to the client is already in use. The IP address has been removed from the pool and will not be reused.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 22:56,5,722040,The type of ACL to be applied is incorrect. An IPv4 ACL has been configured as an IPv6 ACL through the ipv6-vpn-filter command.,IT
+172.16.1.4,172.16.2.3,1,20/8/22 23:00,5,776020,The ASA cannot locate the egress interface to the SXP peer.,IT
